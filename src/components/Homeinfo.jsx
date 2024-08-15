@@ -19,7 +19,7 @@ const renderContent = {
   px-8 text-white mx-5"
     >
       Hi, I am <span className="font-semibold">Raman</span> 👋
-      <br />A Software Engineer fron India
+      <br />A Software Engineer from India
     </h1>
   ),
   2: (
